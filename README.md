@@ -1,0 +1,1 @@
+IntelliQuery is a Retrieval-Augmented Generation (RAG) system that accurately answers queries based on content from NCERT PDFs. Leveraging Pinecone for vector-based search and Google Gemini API for natural language responses, this project offers smart, real-time query resolution.
